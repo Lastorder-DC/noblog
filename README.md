@@ -23,7 +23,7 @@ NoBlog is fork of [nobelium](https://github.com/craigary/nobelium) by [@craigary
   </a>
 </p>
 
-Demo: Coming soon
+Demo: [https://noblog-next.vercel.app/](https://noblog-next.vercel.app/)
 
 <details><summary>Screenshot</summary>
 <img src="https://github.com/Lastorder-DC/noblog/blob/main/desktop.png?raw=true">
